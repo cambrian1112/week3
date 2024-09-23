@@ -1,0 +1,8 @@
+public class sk{
+    public static void main(String[] args){
+        int now=2;
+        int add=100;
+        int next=(now+add)%7;
+        System.out.println(next);
+    }
+}
